@@ -106,7 +106,7 @@ Most Linux distributions have Python 3, but you often need to install `pip`.
     Use `git clone` to download the application files into the new folder. (You must replace the placeholder URL with the actual repository link).
 
     ```bash
-    git clone [Insert Actual Repository URL Here] .
+    git clone (https://github.com/Codemaster-AR/GPR_Reader_Identify_Python_Beta) .
     ```
 
     > **Note:** The final period (`.`) ensures the contents are cloned directly into `Python_GPR_Reader`.
