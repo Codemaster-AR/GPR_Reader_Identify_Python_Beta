@@ -1,6 +1,4 @@
 
-## 🛠️ Complete & Corrected README: GPR\_Reader\_Identify\_Python\_Beta
-
 -----
 
 # GPR\_Reader\_Identify\_Python\_Beta
